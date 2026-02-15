@@ -1,0 +1,27 @@
+# 数据集/大文件
+*.tar.gz
+*.zip
+*.rar
+dataset/
+data/
+hymenoptera_data/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter缓存
+.ipynb_checkpoints/
+*_checkpoint.ipynb
+
+# IDE缓存
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志/模型文件
+logs/
+*.pth
+*.pt
